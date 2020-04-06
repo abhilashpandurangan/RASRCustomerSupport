@@ -5,8 +5,11 @@ Team Name: RASR
 
 Group Members:
 Abhilash Pandurangan 
+
 Ruohan Gao 
+
 Ryan Ball 
+
 Shelly Mehta 
 
 ## Project Introduction
