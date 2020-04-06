@@ -1,5 +1,5 @@
 # Customer Support Analysis and Automated Response System
-CS 544 NLP Spring 2020 Project
+CSCI 544 NLP Spring 2020 Project
 
 Team Name: RASR
 
